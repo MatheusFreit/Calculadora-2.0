@@ -1,0 +1,11 @@
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\bin\Debug\calculadora 2.exe.config
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\bin\Debug\calculadora 2.exe
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\bin\Debug\calculadora 2.pdb
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.AssemblyReference.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.SuggestedBindingRedirects.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora_2.Form1.resources
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora_2.Properties.Resources.resources
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.GenerateResource.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora 2.csproj.CoreCompileInputs.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora 2.exe
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\Projeto calculadora 2\calculadora 2\obj\Debug\calculadora 2.pdb
